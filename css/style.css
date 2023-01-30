@@ -571,23 +571,26 @@ button:focus:not(:focus-visible) {
   -ms-transform: translateY(-5px);
   -o-transform: translateY(-5px);
 }
+.post_text_icon {
+  padding: 32px 0 12px 0;
 
+}
 .post_text h5 {
   font-weight: 500;
   font-size: 24px;
   color: #101828;
-  padding: 32px 0 12px 0;
   font-family: "FuturaBKBT";
 
 }
 
-.post_text h5 i {
+.post_text  i {
+  font-size: 24px;
+  color: #101828;
   transform: rotate(-45deg);
   -webkit-transform: rotate(-45deg);
   -moz-transform: rotate(-45deg);
   -ms-transform: rotate(-45deg);
   -o-transform: rotate(-45deg);
-  margin-left: 110px
 }
 
 .post_text p {
