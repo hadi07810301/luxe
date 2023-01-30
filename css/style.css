@@ -27,8 +27,8 @@ h1, h2, h3, h4, h5, h6, p, ul, li, ol, a {
 }
 
 @font-face {
-  font-family: "FutuBk.ttf"sans-serif;
-  src: url(../fonts/FutuBk.ttf);
+  font-family: "FuturaBKBT";
+  src: url(../fonts/FuturaBookBT.ttf);
 }
 
 /* common css end */
@@ -176,7 +176,7 @@ h1, h2, h3, h4, h5, h6, p, ul, li, ol, a {
   font-weight: 400;
   font-size: 13px;
   color: white !important;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -189,7 +189,7 @@ h1, h2, h3, h4, h5, h6, p, ul, li, ol, a {
   font-size: 14px;
   color: #FFFFFF !important;
   text-transform: uppercase;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -257,7 +257,7 @@ button:focus:not(:focus-visible) {
   font-size: 21px;
   letter-spacing: 8.5px;
   color: #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .banner-text h1 {
@@ -276,7 +276,7 @@ button:focus:not(:focus-visible) {
   line-height: 24px;
   color: #FFFFFF;
   padding: 21px 0 100px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .banner-text a {
@@ -290,7 +290,7 @@ button:focus:not(:focus-visible) {
   -moz-transition: all linear 0.5s;
   -ms-transition: all linear 0.5s;
   -o-transition: all linear 0.5s;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -308,7 +308,7 @@ button:focus:not(:focus-visible) {
   text-transform: uppercase;
   color: #1E1E1E;
   letter-spacing: 13.5px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -359,7 +359,7 @@ button:focus:not(:focus-visible) {
   margin-left: 15px;
   border: 1px solid transparent;
   padding: 7PX 30px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
   font-weight: 400;
   font-size: 16px;
 
@@ -396,7 +396,7 @@ button:focus:not(:focus-visible) {
   font-size: 14px;
   color: #2F3237;
   padding-bottom: 10px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .ex_btn {
@@ -410,7 +410,7 @@ button:focus:not(:focus-visible) {
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .ex-text p {
@@ -420,7 +420,7 @@ button:focus:not(:focus-visible) {
   mix-blend-mode: normal;
   opacity: 0.75;
   padding-bottom: 25px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .ex-text span {
@@ -456,7 +456,7 @@ button:focus:not(:focus-visible) {
   font-size: 16px;
   color: #1E1E1E;
   padding: 20px 0 5px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -478,11 +478,11 @@ button:focus:not(:focus-visible) {
 }
 
 .table_img img {
-  min-height: 532px;
-  max-height: 532px;
-  height: 100%;
-  width: 100%;
-  max-width: 100%;
+	min-height: 520px;
+	max-height: 520px;
+	height: 100%;
+	width: 100%;
+	max-width: 100%;
 }
 
 .table_btn a {
@@ -492,7 +492,7 @@ button:focus:not(:focus-visible) {
   padding: 15px 35px;
   background-color: #1E1E1E;
   border: 1px solid #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -518,7 +518,7 @@ button:focus:not(:focus-visible) {
   text-align: center;
   color: #1E1E1E;
   padding: 15px 0 47px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -553,7 +553,7 @@ button:focus:not(:focus-visible) {
   text-align: center;
   color: #1E1E1E;
   padding: 15px 0 47px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .post_main {
@@ -577,7 +577,7 @@ button:focus:not(:focus-visible) {
   font-size: 24px;
   color: #101828;
   padding: 32px 0 12px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -594,7 +594,7 @@ button:focus:not(:focus-visible) {
   font-weight: 400;
   font-size: 16px;
   color: #1E1E1E;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -633,7 +633,7 @@ button:focus:not(:focus-visible) {
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -652,7 +652,7 @@ button:focus:not(:focus-visible) {
   font-weight: 400;
   font-size: 16px;
   color: #1E1E1E;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -682,7 +682,7 @@ footer {
   font-size: 16px;
   color: #EAECF0;
   padding: 34px 0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -697,7 +697,7 @@ footer {
   font-size: 16px;
   color: rgba(255, 255, 255, 0.6);
   padding-bottom: 12px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -709,7 +709,7 @@ footer {
   font-weight: 400;
   font-size: 16px;
   color: #EAECF0;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -724,7 +724,7 @@ footer {
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 }
 
 .copy_logo img {
@@ -745,7 +745,7 @@ footer {
   font-weight: 400;
   font-size: 16px;
   color: #FFFFFF;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
 
 }
 
@@ -785,7 +785,7 @@ footer {
 }
 .prd_text h5 {
   font-size: 18px;
-  font-family: "FutuBk.ttf";
+  font-family: "FuturaBKBT";
   letter-spacing: 5px;
   text-transform: uppercase;
   padding: 10px 0;
